@@ -103,8 +103,8 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
-  id: minixalpha
+  config: true
+  id: austingg
 
 
 #################################### global configure #######################################
