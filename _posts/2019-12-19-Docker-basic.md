@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker基础之一
-category: 部署 运维
+category: 部署  运维
 comments: true
 ---
 
